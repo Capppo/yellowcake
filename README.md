@@ -2,6 +2,7 @@
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![dependencies](https://david-dm.org/jinksi/netlify-cms-react-starter.svg?style=flat-square)](https://david-dm.org/jinksi/gatsbro)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9b99660a-ab4b-4eb8-a3f0-81db6be2177f/deploy-status)](https://app.netlify.com/sites/aly-yellowcake/deploys)
 
 An opinionated starter project for creating lightning-fast websites with [Gatsby](https://gatsbyjs.org) v2 and [Netlify CMS](https://netlifycms.org) v2.
 
